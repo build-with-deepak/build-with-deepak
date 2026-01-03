@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header" width="100%"/>
+  <img src="./linkedin-banner.png" width="100%" alt="Principal Architect Banner" style="border-radius: 10px;"/>
 </div>
 
 <h1 align="center">Hi, I'm Deepak Jha 👋</h1>
@@ -31,7 +31,7 @@ With over a decade and a half in the industry, I have moved beyond just coding. 
 
 * **Proven Longevity:** 15+ years means I’ve seen technologies rise and fall. I choose stacks that last, not just what's hype today.
 * **System Stability:** Designing fault-tolerant microservices and event-driven architectures on AWS.
-* **Enterprise Frontends:** structuring large-scale Angular & React applications that don't turn into spaghetti code.
+* **Enterprise Frontends:** Structuring large-scale Angular & React applications that don't turn into spaghetti code.
 
 ---
 
