@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/linkedin-banner.jpg" width="100%" alt="Principal Architect Banner" style="border-radius: 10px;"/>
+  <img src="./assets/linkedin-banner-min.jpg" width="100%" alt="Principal Architect Banner" style="border-radius: 10px;"/>
 </div>
 
 <h1 align="center">Hi, I'm Deepak Jha 👋</h1>
