@@ -1,225 +1,53 @@
-### 👋 Hello! I'm Deepak J. | Nice to See You.
-Full Stack Javascript Developer - Javascript, Angular, React, Vue, Ionic, Node.js, MongoDB, Handlebar, HTML & CSS
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=180&section=header" width="100%"/>
+</div>
 
+<h1 align="center">Hi, I'm Deepak Jha 👋</h1>
+<h3 align="center">Principal Architect & Founder @ <a href="https://kosidigital.com" target="_blank">Kosi Digital</a></h3>
 
-<img align="right" alt="GIF" src="./assets/techstack.gif" width="360px"/>
-<b>About Me ✨</b>
+<div align="center">
+  <h2>
+    <span style="color: #7c3aed;">[ 15+ Years of Experience ]</span><br>
+    Architecting Scalable SaaS for Agencies & Founders.
+  </h2>
+  <p>
+    <em>I don't just build features. I ensure stability, scalability, and production-readiness for complex systems.</em>
+  </p>
+</div>
 
-- ✨ Experience of 10 Years+ as Javascript Developer.
-- 🌱 Web and Mobile application development using HTML, CSS and JavaScript.
-- ✨ Good Experience in Angular (5+Years) and Basic knowledge of React.
-- 🌱 Hybrid application development using Ionic Framework.
-- ✨ Good experience in Bootstrap and CSS pre-processors like SCSS etc.
-- 🌱 Experience with Version management tools such as Git, and SVN etc.
-- ✨ Experience with Build, Dependency tools such as Webpack, Grunt, Bower, NPM etc.
-- 🌱 Focused on Test Driven Development (TDD) and able to write Unit Test using Karma/Jest/Jasmine.
-- ✨ Knowledge of Rest API and Full Stack development in JavaScript with NodeJS.
-- 🌱 Basic understanding of MongoDB and Database queries with Mongoose.
-- ✨ Good Communication skill with fluency in written and spoken English
+<p align="center">
+  <a href="https://www.linkedin.com/in/build-with-deepak/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://kosidigital.com">
+    <img src="https://img.shields.io/badge/Visit_My_Agency-7c3aed?style=for-the-badge&logo=google-earth&logoColor=white" alt="Kosi Digital"/>
+  </a>
+</p>
 
-<br>
+---
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+### 🚀 The Value I Bring (Architectural Level)
+With over a decade and a half in the industry, I have moved beyond just coding. I partner with US-based agencies to de-risk their biggest client projects.
 
-> Tools, languages, and other things that I like to work with.
+* **Proven Longevity:** 15+ years means I’ve seen technologies rise and fall. I choose stacks that last, not just what's hype today.
+* **System Stability:** Designing fault-tolerant microservices and event-driven architectures on AWS.
+* **Enterprise Frontends:** structuring large-scale Angular & React applications that don't turn into spaghetti code.
 
-<table style="width:100%">
-  <tr>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/javascript.jpg" width="144" alt="C#" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/jquery.jpg"  width="144" alt="Python" />
-      </a>
-      <br>jQuery
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/html.jpg"  width="144" alt="Python" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/css.jpg"  width="144" alt="Python" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/bootstrap.jpg"  width="144" alt="Python" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/sass.jpg"  width="144" alt="Python" />
-      </a>
-      <br>SASS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/ionic.jpg"  width="144" alt="Jsonnet" />
-      </a>
-      <br>Ionic
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/angular.jpg"  width="144" alt="Golang" />
-      </a>
-      <br>Angular
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/typescript.jpg"  width="144" alt="Golang" />
-      </a>
-      <br>Typescript
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/react.jpg"  width="144" alt="Jsonnet" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/vue.jpg"  width="144" alt="TypeScript" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/ngrx.jpg"  width="144" alt="TypeScript" />
-      </a>
-      <br>NGRX
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/node.jpg"  width="144" alt="JavaScript" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech" >
-        <img src="./assets/express.jpg"  width="144" alt="React" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/nest.jpg"  width="144" alt="Bootstrap" />
-      </a>
-      <br>Nest.js
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/mongo.jpg"  width="144" alt="Sass" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/mongoose.jpg"  width="144" alt="Bootstrap" />
-      </a>
-      <br>Mongoose
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/elasticsearch.jpg"  width="144" alt="Sass" />
-      </a>
-      <br>Elasticsearch
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="16.66%"> 
-      <a href="#macropower-tech" >
-        <img src="./assets/firebase.jpg"  width="144" alt="Docker" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="16.66%"> 
-      <a href="#macropower-tech" >
-        <img src="./assets/redis.jpg"  width="144" alt="Docker" />
-      </a>
-      <br>Redis
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech" >
-        <img src="./assets/postgres.jpg"  width="144" alt="Kubernetes" />
-      </a>
-      <br>Postgress
-    </td>
-    <td align="center" >
-      <a href="#macropower-tech">
-        <img src="./assets/aws.jpg"  width="144" alt="Debian" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech" >
-        <img src="./assets/gcp.jpg"  width="144" alt="Kubernetes" />
-      </a>
-      <br>GCP
-    </td>
-    <td align="center" >
-      <a href="#macropower-tech">
-        <img src="./assets/nginx.jpg"  width="144" alt="Debian" />
-      </a>
-      <br>NGINX
-    </td>
-  </tr>
-  <tr>
-    <td align="center" >
-      <a href="#macropower-tech">
-        <img src="./assets/git.jpg"  width="144" alt="RHEL" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech">
-        <img src="./assets/bitbucket.jpg"  width="144" alt="Powershell" />
-      </a>
-      <br>Bitbucket
-    </td>
-    <td align="center" >
-      <a href="#macropower-tech">
-        <img src="./assets/jenkins.jpg"  width="144" alt="MySQL" />
-      </a>
-      <br>Jenkins
-    </td>
-    <td align="center" width="16.66%">
-      <a href="#macropower-tech" >
-        <img src="./assets/gitlab.jpg"  width="144" alt="Grafana" />
-      </a>
-      <br>Gitlab
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./assets/webpack.jpg" width="144" alt="Prometheus" />
-      </a>
-      <br>webpack
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./assets/more.jpg" width="144" alt="Thanos" />
-      </a>
-      <br>more..
-    </td>
-  </tr>
-</table>
+---
 
-<br>
-<h2 align="left" id="macropower-tech">Connect with Me:</h2>
+### 🛠️ Production-Grade Tech Stack
 
-- :raising_hand_man: Connect with me on **[LinkedIn](https://www.linkedin.com/in/dkjhaaa/)**
-- 📊 Follow me on **[StackOverflow](https://stackoverflow.com/users/6510256/deepak-jha)**
+I focus on the tools that build reliable, scalable businesses.
 
-<br>
+| Domain | Primary Stack |
+| :--- | :--- |
+| **Backend Architecture** | **Node.js**, NestJS (for structure), Express, Microservices Patterns |
+| **Frontend Engineering** | **Angular** (Enterprise Expert), React, TypeScript, Next.js |
+| **Data & Caching** | MongoDB, PostgreSQL, Redis (High-performance caching) |
+| **Infrastructure (AWS)** | S3, EC2, Lambda (Serverless), Docker, Kubernetes |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakJhaaa&show_icons=true&theme=transparent&hide_border=true&title_color=7c3aed&icon_color=3b82f6&text_color=ffffff&bg_color=0d1117" alt="Deepak's Stats" />
+</div>
