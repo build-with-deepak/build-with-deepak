@@ -1,97 +1,84 @@
-<div align="center">
-  <img src="./assets/linkedin-banner-min.jpg" width="100%" alt="Principal Architect Banner" style="border-radius: 10px;"/>
-</div>
+# Hi, I'm Deepak Jha 👋
 
-<h1 align="center">Hi, I'm Deepak Jha 👋</h1>
+### Technical Lead | Solution Architect | Full-Stack & AI Engineering Leader
 
-<h3 align="center">Principal Solution Architect & Fractional CTO @ <a href="https://kosidigital.com" target="_blank">Kosi Digital</a></h3>
+**Node.js · NestJS · React · Angular · AWS · GCP · Generative AI / LLM Integration · Microservices**
 
-<div align="center">
-  <h2>
-    <span style="color: #7c3aed;">[ 15+ Years of Experience ]</span><br>
-    Building Scalable Backend Systems & AI Solutions for Startups.<br>
-    <em>Systems serving 60M+ monthly active users.</em>
-  </h2>
-  <p>
-    <em>I don't just advise — I architect, build, and ship. Production-ready systems that handle real-world scale.</em>
-  </p>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/build-with-deepak/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://build-with-deepak.com">
-    <img src="https://img.shields.io/badge/Website-7c3aed?style=for-the-badge&logo=google-earth&logoColor=white" alt="Personal Website"/>
-  </a>
-  <a href="https://x.com/DeepakBuilds">
-    <img src="https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-  <a href="https://hashnode.com/@build-with-deepak">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Blog"/>
-  </a>
-  <a href="https://dev.to/build-with-deepak">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://medium.com/@build-with-deepak">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://kosidigital.com">
-    <img src="https://img.shields.io/badge/Kosi_Digital-4F46E5?style=for-the-badge&logo=google-earth&logoColor=white" alt="Kosi Digital"/>
-  </a>
-  <a href="https://workhire.co">
-    <img src="https://img.shields.io/badge/WorkHire-059669?style=for-the-badge&logo=google-earth&logoColor=white" alt="WorkHire"/>
-  </a>
-</p>
+📍 New Delhi, India · IST (UTC+5:30) · Open to Global Remote · Immediate relocation to UAE — visa-ready
 
 ---
 
-### 🚀 The Value I Bring (Architectural Level)
+## 🚀 About Me
 
-With 15+ years in the industry, I've moved beyond just coding. I architect systems that serve millions of users — from early-stage startups to Fortune 500 teams.
+Technical Lead and Solution Architect with **13+ years** delivering cloud-native platforms, enterprise SaaS, and high-traffic applications at scale across media, telecom, fintech, healthcare, and marketplace domains.
 
-- **System Stability:** Designing fault-tolerant microservices and event-driven architectures on AWS.
-- **AI/LLM Integration:** Building production-ready RAG pipelines, AI agents, and LLM backends.
-- **Enterprise Frontends:** Structuring large-scale Angular & React applications that scale with the team.
-- **Fractional CTO:** Strategic technical leadership for teams that need direction, not just developers.
+Deep expertise in Node.js, React, Angular, AWS, and GCP with end-to-end architectural ownership from system design through production deployment. Hands-on Generative AI engineer building production RAG pipelines, LLM-integrated conversational systems, and agentic AI workflows.
+
+**60M+ monthly users supported · sub-100ms API performance · 3x platform growth**
 
 ---
 
-### 🛠️ Production-Grade Tech Stack
+## 🛠️ Production-Grade Tech Stack
 
-| Domain | Primary Stack |
+| Domain | Stack |
 | :--- | :--- |
-| **Backend Architecture** | Node.js, NestJS, Express, Microservices Patterns |
-| **Frontend Engineering** | Angular (Enterprise Expert), React, TypeScript, Next.js |
-| **Data & Caching** | MongoDB, PostgreSQL, Redis |
-| **Infrastructure (AWS)** | S3, EC2, Lambda, Docker, Kubernetes |
-| **AI / LLM** | RAG Pipelines, LangChain, OpenAI, Gemini, LLM Agents |
-| **DevOps / CI-CD** | GitHub Actions, Terraform, Docker Compose |
+| **Backend** | Node.js, NestJS, TypeScript, Express.js |
+| **Frontend** | React.js, Angular (v2–v17), TypeScript |
+| **AI / LLM** | Gemini, Claude, OpenAI, RAG Pipelines, Ollama (Llama 3, Mistral), MCP |
+| **Cloud (AWS)** | EC2, Lambda, S3, ECS, RDS, CloudFront |
+| **Cloud (GCP)** | Cloud Run, Cloud Functions |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch |
+| **DevOps** | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI |
+| **Architecture** | Microservices, Event-Driven, CQRS, DDD, Multi-Tenant SaaS |
 
 ---
 
-### 🏗️ What I'm Building
+## 🏗️ Work Experience
 
-| Project | Role | Description |
+| Role | Company | Period |
 | :--- | :--- | :--- |
-| [Kosi Digital](https://kosidigital.com) | Founder & Principal Architect | Architect-led engineering firm. Scalable systems, AI integrations, and cloud architecture for global clients. |
-| [WorkHire](https://workhire.co) | Founder | Enterprise SaaS for bulk hiring across 9+ verticals. AI-powered screening, 48–72 hr time-to-fill. |
-| MegaExam | Founder | Edtech platform for Indian students — test series, adaptive learning, and study material at scale. |
+| **Technical Lead** | SmartSitting — Childcare Placement Marketplace, New York (Remote) | Feb 2024 – Present |
+| **Tech Lead / Solution Engineer** | Radisys — Deutsche Telekom Partner | Oct 2021 – Apr 2024 |
+| **Associate Architect / Tech Lead** | HT Media Ltd. (Hindustan Times) | Nov 2018 – Sep 2021 |
+| **Senior Associate – Full Stack Lead** | Publicis Sapient (SapientRazorfish) | Jun 2017 – Nov 2018 |
+| **Sr. Application Software Developer** | NTT DATA Global Delivery Services | Jan 2016 – Jun 2017 |
+| **Full Stack Developer (Contract)** | Freelance / Avalon Information Systems | Feb 2013 – Jan 2016 |
+| **Software Developer** | UST Global Pvt. Ltd. | Jun 2011 – Feb 2013 |
 
 ---
 
-### ✍️ Where I Write
+## 🏆 Key Achievements
 
-- 📝 [LinkedIn Articles](https://www.linkedin.com/in/build-with-deepak/) — Thought leadership on system design, AI, and engineering strategy
-- 🟦 [Hashnode](https://hashnode.com/@build-with-deepak) — Deep technical dives
-- 💻 [Dev.to](https://dev.to/build-with-deepak) — Engineering tutorials
-- 📖 [Medium](https://medium.com/@build-with-deepak) — Architecture essays
+- 🚀 Founded and scaled SmartSitting's engineering from zero — drove **3x growth** in weekly candidate applications and 2–3x YoY user registration growth
+- - 📰 Scaled LiveHindustan.com to **60M+ monthly users** at HT Media through India's highest-traffic events
+  - - ⚡ Reduced API latency from **400–600ms to sub-100ms** via multi-layer caching and distributed system redesign
+    - - 🌐 Led DT Access 4.0 interface engineering for Deutsche Telekom — managing **8–10 engineers** in a 300-person global programme
+      - - 🏢 Delivered Fortune 500 digital transformation for **Bed Bath & Beyond** and **The Children's Place** at Publicis Sapient
+       
+        - ---
 
----
+        ## 🤖 Generative AI & Agentic Engineering
 
-### 📫 Get In Touch
+        - **Multi-model AI routing:** Dynamically directing tasks between cloud LLMs (Gemini, Claude, GPT-4) and locally hosted models (Ollama — Llama 3, Mistral) based on latency, cost, and data sensitivity
+        - - **Agentic AI workflows:** Implemented Model Context Protocol (MCP), enabling LLMs to autonomously execute multi-step tool-using tasks — connecting AI agents to databases, APIs, and internal services
+          - - **AI infrastructure:** End-to-end AI infra on AWS and GCP — model-serving layers, API orchestration, CI/CD for AI workloads, and production observability
+            - - **AI coding agents:** Daily practitioner of **Claude Code Max** and **GitHub Copilot Pro** for architecture generation, code scaffolding, automated review, and test authoring
+             
+              - ---
 
-- 🌐 **Website:** [build-with-deepak.com](https://build-with-deepak.com)
-- 💼 **LinkedIn:** [linkedin.com/in/build-with-deepak](https://www.linkedin.com/in/build-with-deepak/)
-- 🐦 **X:** [@DeepakBuilds](https://x.com/DeepakBuilds)
-- 📧 **Email:** [info@kosidigital.com](mailto:info@kosidigital.com)
+              ## ✍️ Where I Write
+
+              - 📝 [LinkedIn Articles](https://www.linkedin.com/in/build-with-deepak/) — System design, AI, and engineering strategy
+              - - 🟦 [Hashnode](https://hashnode.com/@build-with-deepak) — Deep technical dives
+                - - 💻 [Dev.to](https://dev.to/build-with-deepak) — Engineering tutorials
+                  - - 📖 [Medium](https://medium.com/@build-with-deepak) — Architecture essays
+                   
+                    - ---
+
+                    ## 📫 Get In Touch
+
+                    - 🌐 **Website:** [build-with-deepak.com](https://build-with-deepak.com)
+                    - - 💼 **LinkedIn:** [linkedin.com/in/build-with-deepak](https://www.linkedin.com/in/build-with-deepak)
+                      - - 🐦 **X:** [@DeepakBuilds](https://x.com/DeepakBuilds)
+                        - - 📧 **Email:** entr.deepakjha@gmail.com
+                          - - 💻 **GitHub:** [github.com/build-with-deepak](https://github.com/build-with-deepak)
