@@ -42,6 +42,7 @@ My current focus: building **Generative AI products** — RAG pipelines, LLM-int
 Open to **Senior Technical Lead, Solution Architect, or AI Engineering** roles — on-site in Dubai, hybrid, or remote globally. **Visa-ready. Available immediately.**
 
 📩 DM me here or connect at: [linkedin.com/in/build-with-deepak](https://www.linkedin.com/in/build-with-deepak)
+
 ---
 
 ## 🛠️ Production-Grade Tech Stack
