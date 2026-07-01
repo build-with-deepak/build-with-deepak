@@ -49,36 +49,37 @@ Deep expertise in Node.js, React, Angular, AWS, and GCP with end-to-end architec
 
 ## 🏆 Key Achievements
 
-- 🚀 Founded and scaled SmartSitting's engineering from zero — drove **3x growth** in weekly candidate applications and 2–3x YoY user registration growth
-- - 📰 Scaled LiveHindustan.com to **60M+ monthly users** at HT Media through India's highest-traffic events
-  - - ⚡ Reduced API latency from **400–600ms to sub-100ms** via multi-layer caching and distributed system redesign
-    - - 🌐 Led DT Access 4.0 interface engineering for Deutsche Telekom — managing **8–10 engineers** in a 300-person global programme
-      - - 🏢 Delivered Fortune 500 digital transformation for **Bed Bath & Beyond** and **The Children's Place** at Publicis Sapient
-       
-        - ---
+* Founded and scaled SmartSitting's engineering from zero — drove **3x growth** in weekly candidate applications and 2–3x YoY user registration growth
+* Scaled LiveHindustan.com to **60M+ monthly users** at HT Media through India's highest-traffic national events (elections, cricket finals, breaking news)
+* Reduced API latency from **400–600ms to sub-100ms** via multi-layer caching, query optimization, and distributed system redesign
+* Led DT Access 4.0 interface engineering for Deutsche Telekom — managing **8–10 engineers** in a 300-person global programme at Radisys
+* Delivered Fortune 500 digital transformation for **Bed Bath & Beyond** and **The Children's Place** at Publicis Sapient
+* Progressed from Software Developer to Solution Architect across 13+ years, consistently owning architecture governance, design reviews, and mentorship
 
-        ## 🤖 Generative AI & Agentic Engineering
+---
 
-        - **Multi-model AI routing:** Dynamically directing tasks between cloud LLMs (Gemini, Claude, GPT-4) and locally hosted models (Ollama — Llama 3, Mistral) based on latency, cost, and data sensitivity
-        - - **Agentic AI workflows:** Implemented Model Context Protocol (MCP), enabling LLMs to autonomously execute multi-step tool-using tasks — connecting AI agents to databases, APIs, and internal services
-          - - **AI infrastructure:** End-to-end AI infra on AWS and GCP — model-serving layers, API orchestration, CI/CD for AI workloads, and production observability
-            - - **AI coding agents:** Daily practitioner of **Claude Code Max** and **GitHub Copilot Pro** for architecture generation, code scaffolding, automated review, and test authoring
-             
-              - ---
+## 🤖 Generative AI & Agentic Engineering
 
-              ## ✍️ Where I Write
+* **Multi-model AI routing:** Dynamically directing tasks between cloud LLMs (Gemini, Claude, GPT-4) and locally hosted open-source models (Ollama — Llama 3, Mistral) based on latency, cost, and data sensitivity
+* **Agentic AI workflows:** Implemented Model Context Protocol (MCP), enabling LLMs to autonomously execute multi-step tool-using tasks — connecting AI agents directly to databases, APIs, and internal services
+* **End-to-end AI infrastructure:** Own AI infra across AWS and GCP — model-serving layers, API orchestration, CI/CD for AI workloads, observability, and production reliability
+* **AI coding agents:** Daily practitioner of **Claude Code Max** and **GitHub Copilot Pro** for architecture generation, code scaffolding, automated review, and test authoring — measurably accelerating delivery velocity
 
-              - 📝 [LinkedIn Articles](https://www.linkedin.com/in/build-with-deepak/) — System design, AI, and engineering strategy
-              - - 🟦 [Hashnode](https://hashnode.com/@build-with-deepak) — Deep technical dives
-                - - 💻 [Dev.to](https://dev.to/build-with-deepak) — Engineering tutorials
-                  - - 📖 [Medium](https://medium.com/@build-with-deepak) — Architecture essays
-                   
-                    - ---
+---
 
-                    ## 📫 Get In Touch
+## ✍️ Where I Write
 
-                    - 🌐 **Website:** [build-with-deepak.com](https://build-with-deepak.com)
-                    - - 💼 **LinkedIn:** [linkedin.com/in/build-with-deepak](https://www.linkedin.com/in/build-with-deepak)
-                      - - 🐦 **X:** [@DeepakBuilds](https://x.com/DeepakBuilds)
-                        - - 📧 **Email:** entr.deepakjha@gmail.com
-                          - - 💻 **GitHub:** [github.com/build-with-deepak](https://github.com/build-with-deepak)
+* [LinkedIn Articles](https://www.linkedin.com/in/build-with-deepak/) — System design, AI, and engineering strategy
+* [Hashnode](https://hashnode.com/@build-with-deepak) — Deep technical dives
+* [Dev.to](https://dev.to/build-with-deepak) — Engineering tutorials
+* [Medium](https://medium.com/@build-with-deepak) — Architecture essays
+
+---
+
+## 📫 Get In Touch
+
+* **Website:** [build-with-deepak.com](https://build-with-deepak.com)
+* **LinkedIn:** [linkedin.com/in/build-with-deepak](https://www.linkedin.com/in/build-with-deepak)
+* **X:** [@DeepakBuilds](https://x.com/DeepakBuilds)
+* **Email:** entr.deepakjha@gmail.com
+* **GitHub:** [github.com/build-with-deepak](https://github.com/build-with-deepak)
