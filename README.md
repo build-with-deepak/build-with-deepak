@@ -10,9 +10,51 @@
 
 ## 🚀 About Me
 
-Technical Lead and Solution Architect with **13+ years** delivering cloud-native platforms, enterprise SaaS, and high-traffic applications at scale across media, telecom, fintech, healthcare, and marketplace domains.
 
-Deep expertise in Node.js, React, Angular, AWS, and GCP with end-to-end architectural ownership from system design through production deployment. Hands-on Generative AI engineer building production RAG pipelines, LLM-integrated conversational systems, and agentic AI workflows.
+60 million users. Sub-100ms latency. Zero-downtime deployments.
+That's the bar I build to.
+
+In Dubai and available now — I'm a Solution Architect and Technical Lead with 13+ years 
+engineering cloud-native backends, enterprise SaaS platforms, and AI-powered systems 
+for companies across the UAE, US, and Europe.
+
+━━━━━━━━━━━━━━━━━━━━━━
+WHAT I DO
+━━━━━━━━━━━━━━━━━━━━━━
+I design and ship production-grade systems using Node.js, NestJS, AWS, and GCP — 
+from system design and microservices architecture through to CI/CD, observability, 
+and live deployment. My current focus: building Generative AI products — RAG pipelines, 
+LLM-integrated backends, agentic AI workflows, and multi-model routing systems — 
+using OpenAI, Gemini, Claude, and local inference via Ollama.
+
+━━━━━━━━━━━━━━━━━━━━━━
+WHO I'VE BUILT FOR
+━━━━━━━━━━━━━━━━━━━━━━
+→ SmartSitting (NYC): Founding Technical Lead — scaled from zero to a full AI-native 
+  platform; 3x growth in weekly candidate applications via Gemini + RAG-powered features
+→ HT Media / LiveHindustan.com: Architected backend for 60M+ monthly users; 
+  cut API latency from 600ms → sub-100ms via CDN + Redis + Elasticsearch redesign
+→ Deutsche Telekom / Radisys: Led interface engineering for DT Access 4.0, 
+  managing 8–10 engineers within a 300-person global carrier-grade programme
+→ Publicis Sapient: Fortune 500 digital transformation for Bed Bath & Beyond 
+  and The Children's Place on React + Node.js + PostgreSQL stacks
+
+━━━━━━━━━━━━━━━━━━━━━━
+CORE STACK
+━━━━━━━━━━━━━━━━━━━━━━
+Backend: Node.js · NestJS · TypeScript · PostgreSQL · MongoDB · Redis
+Cloud: AWS · GCP · Docker · Kubernetes · GitHub Actions · Cloud Run
+GenAI: RAG Pipelines · LLM APIs (OpenAI, Gemini, Claude) · Vector Embeddings · 
+       Agentic AI · MCP · Prompt Engineering · Local LLM (Ollama)
+Architecture: Microservices · System Design · Event-Driven · API Design
+
+━━━━━━━━━━━━━━━━━━━━━━
+LET'S TALK
+━━━━━━━━━━━━━━━━━━━━━━
+Open to Senior Technical Lead, Solution Architect, or AI Engineering roles — 
+on-site in Dubai, hybrid, or remote globally. Visa-ready. Available immediately.
+
+📩 DM me here or connect at: linkedin.com/in/build-with-deepak
 
 **60M+ monthly users supported · sub-100ms API performance · 3x platform growth**
 
