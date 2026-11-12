@@ -1,75 +1,29 @@
-# Hi, I'm Deepak Kumar Jha 👋
+# Deepak Kumar Jha
 
-### Technical Lead · Senior Full-Stack Engineer
+**Technical Lead · Solution Architect** in Dubai, UAE. 14 years of building and running production systems.
+I lead teams that design, ship and operate Node.js and TypeScript platforms on AWS and GCP, and I put AI models to work where they pay for themselves.
 
-**Node.js · Express.js · NestJS · Angular · React · AWS · GCP · Generative AI / LLM Integration · Microservices**
+**Try my work:** [AI Lab](https://lab.build-with-deepak.com/?utm_source=github&utm_medium=profile) · [CV and case studies](https://build-with-deepak.com/?utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/build-with-deepak)
 
-📍 New Delhi NCR, India · Open to full-time roles in Delhi NCR and Dubai/UAE · Immediate joiner
+## What I've delivered
 
----
+- **LiveHindustan.com (HT Media):** 60M+ monthly users; API responses from 400–600 ms to under 100 ms; AWS fleet cut from 16 servers to 4 at the same traffic.
+- **SmartSitting:** childcare marketplace built from zero on GCP; Gemini-based support cut support load by 40–60%; 99.99% uptime; self-hosted RAG keeps family data off commercial models.
+- **Indegene:** led 12–14 engineers from a crashing monolith to microservices; API responses from 10–40 s to 5–7 s.
+- **Deutsche Telekom (via Radisys):** led 8–10 engineers inside a 300-person programme; Keycloak across 10+ clients.
 
-## 🚀 About Me
+## Live AI systems
 
-**60 million users. Sub-100ms latency. Zero-downtime deployments. That's the bar I build to.**
+| System | Business question | Try it | Code |
+| --- | --- | --- | --- |
+| Private RAG | Can we use AI on our documents without sending them to an AI provider? | [Open](https://lab.build-with-deepak.com/labs/rag) | [rag-privacy-first](https://github.com/build-with-deepak/rag-privacy-first) |
+| MCP Agent Toolkit | Can an AI agent work with our systems and still be auditable? | [Open](https://lab.build-with-deepak.com/labs/agent) | [mcp-agent-toolkit](https://github.com/build-with-deepak/mcp-agent-toolkit) |
+| Multi-Model Router | How do we cut AI spend without sending personal data to the cloud? | [Open](https://lab.build-with-deepak.com/labs/router) | [llm-multi-model-router](https://github.com/build-with-deepak/llm-multi-model-router) |
 
-I'm a Technical Lead and Senior Full-Stack Engineer building cloud-native backends, enterprise SaaS platforms, and AI-powered systems for companies across India, the UAE, the US, and Europe.
+## How I work
 
-### 🛠️ What I Do
+Spec-driven delivery: versioned specs, acceptance criteria linked to tests, and AI coding agents working from the spec, with every change reviewed.
 
-I design and ship production-grade systems using Node.js, Express.js, NestJS, AWS, and GCP — from system design and microservices architecture through to CI/CD, observability, and live deployment.
+**Stack:** Node.js · TypeScript · NestJS · Express · Angular (v2–v17) · React · PostgreSQL · MongoDB · Redis · AWS · GCP · Docker · Kubernetes · Keycloak · OAuth2/OIDC · RAG · LLM APIs (Gemini, OpenAI, Claude) · Ollama · MCP
 
-My current focus: building Generative AI products — RAG pipelines, LLM-integrated backends, agentic AI workflows, and multi-model routing systems — using OpenAI, Gemini, Claude, and local inference via Ollama.
-
-### 🏆 Who I've Built For
-
-| Company | Impact |
-| --- | --- |
-| **SmartSitting** (NYC) | Technical Lead — scaled from zero to a full AI-native platform; 3x growth in weekly candidate applications via Gemini + RAG-powered features |
-| **Indegene** | Led 12–14 engineers migrating a pharma-tech SaaS monolith to microservices; cut API response times from 10–40s to 5–7s |
-| **HT Media / LiveHindustan.com** | Architected backend for 60M+ monthly users; cut API latency from 600ms to sub-100ms via CDN + Redis + Elasticsearch redesign |
-| **Deutsche Telekom / Radisys** | Led interface engineering for DT Access 4.0, managing 8–10 engineers within a 300-person global carrier-grade programme |
-| **Publicis Sapient** | Fortune 500 digital transformation for Bed Bath & Beyond and The Children's Place on React + Node.js + PostgreSQL stacks |
-
-### ⚙️ Core Stack
-
-**Backend:** Node.js · Express.js · NestJS · TypeScript · PostgreSQL · MongoDB · Redis
-**Cloud:** AWS · GCP · Docker · Kubernetes · GitHub Actions · Cloud Run
-**GenAI:** RAG Pipelines · LLM APIs (OpenAI, Gemini, Claude) · Vector Embeddings · Agentic AI · MCP · Prompt Engineering · Local LLM (Ollama)
-**Architecture:** Microservices · System Design · Event-Driven · API Design
-
-### 💬 Let's Talk
-
-I'm open to full-time Technical Lead and Senior Full-Stack Engineer roles in Delhi NCR and Dubai/UAE, and available to join within 15 days. Degree MOFA-attested.
-
-📩 DM me here or connect at [linkedin.com/in/build-with-deepak](https://www.linkedin.com/in/build-with-deepak/)
-
----
-
-### 🛠️ Production-Grade Tech Stack
-
-| Domain | Stack |
-| --- | --- |
-| Backend | Node.js, Express.js, NestJS, TypeScript |
-| Frontend | React.js, Angular (v2–v17), TypeScript |
-| AI / LLM | Gemini, Claude, OpenAI, RAG Pipelines, Ollama (Llama 3, Mistral), MCP |
-| Cloud (AWS) | EC2, Lambda, S3, ECS, RDS, CloudFront |
-| Cloud (GCP) | Cloud Run, Cloud Functions |
-| Databases | PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch |
-| DevOps | Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI |
-| Architecture | Microservices, Event-Driven, CQRS, DDD, Multi-Tenant SaaS |
-
----
-
-### 🏗️ Work Experience
-
-| Role | Company | Period |
-| --- | --- | --- |
-| Technical Lead | SmartSitting — Childcare Placement Marketplace, New York (Remote) | Dec 2025 – Present |
-| Solution Architect | Indegene Limited | Feb 2025 – Dec 2025 |
-| Technical Analyst | Toppan Merrill LLC | Apr 2024 – Feb 2025 |
-| Tech Lead / Solution Engineer | Radisys — Deutsche Telekom Partner | Oct 2021 – Apr 2024 |
-| Associate Architect / Tech Lead | HT Media Ltd. (Hindustan Times) | Nov 2018 – Sep 2021 |
-| Senior Associate – Full Stack | Publicis Sapient (SapientRazorfish) | Jun 2017 – Nov 2018 |
-| Senior Software Developer | NTT DATA Global Delivery Services | Jan 2016 – Jun 2017 |
-| JavaScript Developer | Avalon Information Systems | Mar 2015 – Jan 2016 |
-| Full-Stack Developer (Contract) | Independent Consultant | Feb 2013 – Mar 2015 |
+Open to full-time or contract Technical Lead and Solution Architect roles in Dubai, Abu Dhabi or remote. [Get in touch](https://build-with-deepak.com/contact).
