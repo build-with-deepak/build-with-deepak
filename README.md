@@ -1,29 +1,30 @@
 # Deepak Kumar Jha
 
-**Technical Lead · Solution Architect** in Dubai, UAE. 14 years of building and running production systems.
-I lead teams that design, ship and operate Node.js and TypeScript platforms on AWS and GCP, and I put AI models to work where they pay for themselves.
+Technical Lead & Solution Architect | Node.js, TypeScript, AWS, Microservices | IAM/Keycloak | GenAI (RAG, MCP)
 
-**Try my work:** [AI Lab](https://lab.build-with-deepak.com/?utm_source=github&utm_medium=profile) · [CV and case studies](https://build-with-deepak.com/?utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/build-with-deepak)
+I have spent 14 years building and running production web platforms end to end, from system design to delivery and the production support that follows.
+I lead backend teams of 5 to 14 engineers on Node.js and TypeScript platforms on AWS and GCP, with identity and access management (Keycloak, OAuth2/OIDC) built in from the start.
+I apply GenAI where it pays for itself: RAG on private documents, LLM integration and MCP agents that stay auditable.
 
-## What I've delivered
+## Core stack
 
-- **LiveHindustan.com (HT Media):** 60M+ monthly users; API responses from 400–600 ms to under 100 ms; AWS fleet cut from 16 servers to 4 at the same traffic.
-- **SmartSitting:** childcare marketplace built from zero on GCP; Gemini-based support cut support load by 40–60%; 99.99% uptime; self-hosted RAG keeps family data off commercial models.
-- **Indegene:** led 12–14 engineers from a crashing monolith to microservices; API responses from 10–40 s to 5–7 s.
-- **Deutsche Telekom (via Radisys):** led 8–10 engineers inside a 300-person programme; Keycloak across 10+ clients.
+- Node.js, TypeScript, Express, NestJS
+- Angular, React
+- MongoDB, PostgreSQL, Redis
+- AWS, GCP, Docker, Kubernetes, microservices
+- Keycloak, OAuth2/OIDC, JWT, RBAC
+- RAG, LLM APIs, MCP
 
-## Live AI systems
+## Live demos
 
-| System | Business question | Try it | Code |
-| --- | --- | --- | --- |
-| Private RAG | Can we use AI on our documents without sending them to an AI provider? | [Open](https://lab.build-with-deepak.com/labs/rag) | [rag-privacy-first](https://github.com/build-with-deepak/rag-privacy-first) |
-| MCP Agent Toolkit | Can an AI agent work with our systems and still be auditable? | [Open](https://lab.build-with-deepak.com/labs/agent) | [mcp-agent-toolkit](https://github.com/build-with-deepak/mcp-agent-toolkit) |
-| Multi-Model Router | How do we cut AI spend without sending personal data to the cloud? | [Open](https://lab.build-with-deepak.com/labs/router) | [llm-multi-model-router](https://github.com/build-with-deepak/llm-multi-model-router) |
+- [Private RAG](https://lab.build-with-deepak.com/labs/rag): cited answers from business documents on a self-hosted model ([code](https://github.com/build-with-deepak/rag-privacy-first))
+- [MCP Agent](https://lab.build-with-deepak.com/labs/agent): an AI agent that calls business tools, with every call and result shown ([code](https://github.com/build-with-deepak/mcp-agent-toolkit))
+- [LLM Router](https://lab.build-with-deepak.com/labs/router): personal data stays on local models, the rest goes to the cheapest model that can do the job ([code](https://github.com/build-with-deepak/llm-multi-model-router))
 
-## How I work
+## More about me
 
-Spec-driven delivery: versioned specs, acceptance criteria linked to tests, and AI coding agents working from the spec, with every change reviewed.
+- [Profile and case studies](https://build-with-deepak.com/about)
+- [CV](https://build-with-deepak.com/resume)
+- [LinkedIn](https://www.linkedin.com/in/build-with-deepak)
 
-**Stack:** Node.js · TypeScript · NestJS · Express · Angular (v2–v17) · React · PostgreSQL · MongoDB · Redis · AWS · GCP · Docker · Kubernetes · Keycloak · OAuth2/OIDC · RAG · LLM APIs (Gemini, OpenAI, Claude) · Ollama · MCP
-
-Open to full-time or contract Technical Lead and Solution Architect roles in Dubai, Abu Dhabi or remote. [Get in touch](https://build-with-deepak.com/contact).
+Based in New Delhi, India. Open to full-time or contract Technical Lead and Solution Architect roles in Dubai, Abu Dhabi or remote; can relocate to the UAE within a week, notice period 15 days.
